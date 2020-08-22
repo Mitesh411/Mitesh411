@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Mitesh411/Mitesh411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...                 [ LinkedIn Page ] (https://www.linkedin.com/in/mitesh-dandade-1a62085b/)
 - 😄 Pronouns: ...                        He / Him
 - ⚡ Fun fact: ...                         I Find One then share with me 
--->
+
