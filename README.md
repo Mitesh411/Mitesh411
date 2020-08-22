@@ -12,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...                        He / Him
 - ⚡ Fun fact: ...                         I Find One then share with me 
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
