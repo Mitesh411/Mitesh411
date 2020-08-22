@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...    Cypress.io &  Scriptless Automation 
 - 🤔 I’m looking for help with ...        ML / NLP & Chatbot Testing
 - 💬 Ask me about ...                     Manual to Automation Testing 
-- 📫 How to reach me: ...                 [ LinkedIn Page ] (https://www.linkedin.com/in/mitesh-dandade-1a62085b/)
+- 📫 How to reach me: ...                 [ LinkedIn Page ](https://www.linkedin.com/in/mitesh-dandade-1a62085b/)
 - 😄 Pronouns: ...                        He / Him
 - ⚡ Fun fact: ...                         I Find One then share with me 
 
