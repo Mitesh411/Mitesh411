@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...                     Manual to Automation Testing 
 
-- 📫 How to reach me: ...                 [![Linkedin Badge](https://img.shields.io/badge/-Mitesh Dandade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitesh-dandade-1a62085b)](https://www.linkedin.com/in/mitesh-dandade-1a62085b)
+- 📫 How to reach me: ...                 [![Linkedin Badge](https://img.shields.io/badge/-MiteshDandade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitesh-dandade-1a62085b)](https://www.linkedin.com/in/mitesh-dandade-1a62085b)
 
 - 😄 Pronouns: ...                        He / Him
 
