@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...         Learning Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
+- 🔭 I’m currently working on ...         Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
 
 - 🌱 I’m currently learning ...           CI / CD with Docker with Real Time Reporting 
 
@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you  
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
