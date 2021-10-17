@@ -24,6 +24,18 @@ Here are some ideas to get you started:
 - ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+### Github Stats
+<!--
+https://github.com/anuraghazra/github-readme-stats
+All inbuilt themes :-
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+&theme=tokyonight (to add the theme to below stats)
+-->
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Mitesh411&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh411&theme=blue-green&layout=compact)
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
