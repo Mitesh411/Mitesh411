@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...                        He / Him
 
-- ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you  
+- ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you 
+- ## Joke of the day
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
