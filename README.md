@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...                        He / Him
 
 - ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you 
+
+- ![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
+
 - ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
