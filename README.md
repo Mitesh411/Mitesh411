@@ -29,16 +29,6 @@ Here are some ideas to get you started:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Github Stats
-<!--
-https://github.com/anuraghazra/github-readme-stats
-All inbuilt themes :-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
-&theme=tokyonight (to add the theme to below stats)
--->
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Mitesh411&show_icons=true)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mitesh411&theme=blue-green&layout=compact)
 
 ![Metrics](https://metrics.lecoq.io/Mitesh411?template=classic&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta)
 
