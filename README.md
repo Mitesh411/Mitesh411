@@ -28,20 +28,31 @@ Here are some ideas to get you started:
 - ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>&nbsp;&nbsp;
- <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"/>&nbsp;&nbsp;
+**Languages and Tools:**
+
+![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906.svg?&style=for-the-badge&logo=WebdriverIO&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%233178C6?&style=for-the-badge&logo=Typescript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f0db4f?&style=for-the-badge&logo=JavaScript&logoColor=black)
+![Mocha](https://img.shields.io/badge/-Mocha-%238D6748?&style=for-the-badge&logo=Mocha&logoColor=white)
+![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?logo=cucumber&logoColor=white&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/selenium%20-CB02A.svg?&style=for-the-badge&logo=Selenium&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-%23007396?&style=for-the-badge&logo=Java&logoColor=white)
+![Rest-Assured](https://img.shields.io/badge/-Rest%20Assured-4BA82E?&style=for-the-badge&logo=Java&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?&style=for-the-badge&logo=Postman&logoColor=white)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36.svg?&style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Git](https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?&style=for-the-badge&logo=GitHub&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-%23D24939?&style=for-the-badge&logo=Jenkins&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-%2317202C?&style=for-the-badge&logo=Cypress&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-%23339933?&style=for-the-badge&logo=npm&logoColor=white)
+![Bamboo](https://img.shields.io/badge/-Bamboo-%230052CC?&style=for-the-badge&logo=Bamboo&logoColor=white)
+![JIRA](https://img.shields.io/badge/-JIRA-%230052CC?&style=for-the-badge&logo=JIRA&logoColor=white)
+![Confluence](https://img.shields.io/badge/-Confluence-%230052CC?&style=for-the-badge&logo=confluence&logoColor=white)
+<!--
+![Eclips](https://img.shields.io/badge/Eclips%20IDE-%232C2255?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
+![VSCode](https://img.shields.io/badge/-vscode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+-->
 
 
 ### Github Stats
