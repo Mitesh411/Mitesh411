@@ -2,7 +2,13 @@
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-### Love to See You Here  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+
+
+
+### Love to See You Here 
+
+
+
 
 
 Here are some ideas to get you started:
