@@ -1,6 +1,6 @@
 [![Metrics](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml/badge.svg?branch=master)](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml)
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+<img align='top' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
 
