@@ -4,7 +4,6 @@
 
 
 
-
 ### Love to See You Here 
 
 
@@ -13,21 +12,21 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...         Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
+- 🔭 I’m currently working on ...         **Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing** :)
 
-- 🌱 I’m currently learning ...           CI / CD with Docker with Real Time Reporting 
+- 🌱 I’m currently learning ...           **CI / CD with Docker with Real Time Reporting** 
 
-- 👯 I’m looking to collaborate on ...    Cypress.io &  Scriptless Automation 
+- 👯 I’m looking to collaborate on ...    **Cypress.io, PlayWright &  Scriptless Automation** 
 
-- 🤔 I’m looking for help with ...        ML / NLP & Chatbot Testing
+- 🤔 I’m looking for help with ...        **ML / NLP & Chatbot Testing**
 
-- 💬 Ask me about ...                     Manual to Automation Testing 
+- 💬 Ask me about ...                     **Manual to Automation Testing** 
 
 - 📫 How to reach me: ...                 [![Linkedin Badge](https://img.shields.io/badge/-MiteshDandade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitesh-dandade-1a62085b)](https://www.linkedin.com/in/mitesh-dandade-1a62085b)
 
-- 😄 Pronouns: ...                        He / Him
+- 😄 Pronouns: ...                        **He / Him**
 
-- ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you 
+- ⚡ Fun fact: ...                         **If You Find One then share with me. Happy to help you** 
 
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
 
