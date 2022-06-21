@@ -66,5 +66,8 @@ Here are some ideas to get you started:
 
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+_____________________________________________________________________________________________________________________________________
 
+  ![Alt](https://repobeats.axiom.co/api/embed/42ab9da5896524b3c4d118d64165667c22459dd8.svg "Repobeats analytics image")
+  
 
