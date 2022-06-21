@@ -28,6 +28,15 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...                         **If You Find One then share with me. Happy to help you** 
 
+- ## Support
+- - ⭐️ Simplest way to say Thanks is just to it a Star 🤩
+- ❤️ To show more support:
+  - ☕️ [buy me a coffee](https://buymeacoffee.com/dandademitz)
+  - 👏🏿 [sponsor me](Work is in Progress)
+- ✨ Contributions of any kind are welcome!
+
+---
+
 - ![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
 
 - ## Joke of the day
