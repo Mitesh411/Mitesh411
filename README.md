@@ -1,8 +1,7 @@
 [![Metrics](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml/badge.svg?branch=master)](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml)
 
-<img align='top' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
-
-
+ 
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### Love to See You Here 
 
@@ -76,11 +75,10 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | 6.1+ ❌ |
 
 ### Github Stats
 
-![Metrics](https://metrics.lecoq.io/Mitesh411?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&pagespeed=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/Mitesh411?template=classic&base.header=0&base.activity=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)
 
 
 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 _____________________________________________________________________________________________________________________________________
 
   ![Alt](https://repobeats.axiom.co/api/embed/42ab9da5896524b3c4d118d64165667c22459dd8.svg "Repobeats analytics image")
