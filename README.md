@@ -73,12 +73,6 @@ Here are some ideas to get you started:
 Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | 6.1+ ❌ |
 
 
-### Github Stats
-
-![Metrics](https://metrics.lecoq.io/Mitesh411?template=classic&base.header=0&base.activity=0&base.metadata=0&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)
-
-
-
 _____________________________________________________________________________________________________________________________________
 
   ![Alt](https://repobeats.axiom.co/api/embed/42ab9da5896524b3c4d118d64165667c22459dd8.svg "Repobeats analytics image")
