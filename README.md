@@ -1,4 +1,4 @@
-[![Metrics](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml/badge.svg?branch=master)](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml)
+[![Metrics](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml/badge.svg?branch=master)](https://github.com/Mitesh411/Mitesh411/actions/workflows/blank.yml)  ![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
 
  
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-- ![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
+
 
 - ## Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
