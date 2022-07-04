@@ -5,7 +5,7 @@
 
 ### Love to See You Here 
 
-
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
 
 
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - ## Support
 - - ⭐️ Simplest way to say Thanks is just to it a Star 🤩
 - ❤️ To show more support:
-  - ☕️ [buy me a coffee](https://buymeacoffee.com/dandademitz)
+  - <img src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' alt="Coder GIF" width="50" height="50"> [BUY ME A COFFEE](https://buymeacoffee.com/dandademitz)
   - 👏🏿 [sponsor me](Work is in Progress)
 - ✨ Contributions of any kind are welcome!
 
