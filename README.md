@@ -36,18 +36,13 @@ Here are some ideas to get you started:
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
 
+<h1 align="left">Languages and Tools:</h1>
 
-
-- ## Joke of the day
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-**Browser**
+**Operating System**
 |<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>
 --- | --- |
 
+**Java Based Testing & Reporting Tool**
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
@@ -55,8 +50,13 @@ Here are some ideas to get you started:
 <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+ **SCM**
+ 
+|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+--- | 
 
+ **Dev-Ops Tools**
+ 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
@@ -64,11 +64,18 @@ Here are some ideas to get you started:
 <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 
 
+**Mobile Operating System**
+ 
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>|<img src="https://devicons.railway.app/i/apple-dark.svg" alt="selenium" width="40" height="40"/> </a>
+ --- | --- |
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.railway.app/i/apple-dark.svg" alt="selenium" width="40" height="40"/> </a>  
-<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+ **Real Time Monitroting Tool**
+ 
+ |<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
+--- |
 
-
+ **Node Environment Tools**
+ 
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
@@ -79,9 +86,13 @@ Here are some ideas to get you started:
 
 </a> 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+**Application Lifecycle Management Tools**
+ 
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
+--- |
 
-
+**BackEnd Database Provider** 
+ 
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
@@ -89,23 +100,31 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
 
-
+**API Testing Tools**
+ 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <img src="https://miro.medium.com/max/400/1*dbeTcEaIPgyZZ6aaC519RQ.png" height="40" width="40" alt="restassured logo"  />
 <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>
 
-
+**Javascript & Typescript Based Framework**
+ 
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
+ **Robot Framework**
+ 
+|<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
+--- |
+ 
+ **Non-Functional Testing Tools**
+|<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img height="48" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" />
+--- | --- |
 
-<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/> 
-<img height="48" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
-
+ **Java Apache Libraries**
+|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
+--- |
+ 
 **Communication Tool**
 
 |<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" />
