@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
-<img height="48" style="margin: 6px;" src="https://github.com/test-results-reporter/reporter/blob/main/assets/testng.png" alt="testng" /> <img height="48" style="margin: 6px;"  src="https://github.com/test-results-reporter/reporter/blob/main/assets/junit.png" alt="junit" /> <img height="48" style="margin: 6px;"  src="https://github.com/test-results-reporter/reporter/blob/main/assets/cucumber.png" alt="cucumber" />
+<img height="48" style="margin: 6px;" src="./testng.png" alt="testng" /> <img height="48" style="margin: 6px;"  src="./junit.png" alt="junit" /> <img height="48" style="margin: 6px;"  src="./cucumber.png" alt="cucumber" />
 <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 
@@ -108,7 +108,7 @@ Here are some ideas to get you started:
 
 **Communication Tool**
 
-|<img height="48" style="margin: 6px;" src="https://github.com/test-results-reporter/reporter/blob/main/assets/slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="https://github.com/test-results-reporter/reporter/blob/main/assets/teams.png" alt="teams" />
+|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" />
 --- | --- |
 
 </p>
