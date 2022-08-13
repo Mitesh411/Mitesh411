@@ -39,13 +39,13 @@ Here are some ideas to get you started:
 <h1 align="left">Languages and Tools:</h1>
 
 **Operating System**
-|<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>
---- | --- |
+|<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>|<img src="https://img.icons8.com/color/344/mac-os-logo.png" alt="MacOS" width="60" height="60"/>
+--- | --- | --- |
 
 **Java Based Testing & Reporting Tool**
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<img src="https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png" height="40" width="40" alt="selenium logo"  />
+<img src="https://img.icons8.com/officel/344/selenium-test-automation.png" height="40" width="40" alt="selenium logo"  />
 <img height="48" style="margin: 6px;" src="./testng.png" alt="testng" /> <img height="48" style="margin: 6px;"  src="./junit.png" alt="junit" /> <img height="48" style="margin: 6px;"  src="./cucumber.png" alt="cucumber" />
 <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -122,7 +122,7 @@ Here are some ideas to get you started:
 --- | --- |
 
  **Java Apache Libraries**
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" width="52" alt="apache logo"  />
+|<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" height="50" width="52" alt="apache logo"  />
 --- |
  
 **Communication Tool**
@@ -142,7 +142,14 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | 6.1+ ❌ |
 
 
 _____________________________________________________________________________________________________________________________________
+### Connect With Me
+<a href="https://www.linkedin.com/in/mitesh-dandade-1a62085b">
+  <img align="left" alt="Amit's LinkedIn" width="40px" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif"/> 
+</a> 
 
+<a href="mailto:mailme.dandademitesh@gmail.com">
+  <img align="left" alt="Mitesh Dandade Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
+</a>
   
   
 
