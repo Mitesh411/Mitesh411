@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>|<img src="https://devicons.railway.app/i/apple-dark.svg" alt="selenium" width="40" height="40"/> </a>
  --- | --- |
 
- **Real Time Monitroting Tool**
+ **Real Time Monitoring Tool**
  
  |<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
 --- |
@@ -127,8 +127,8 @@ Here are some ideas to get you started:
  
 **Communication Tool**
 
-|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" />
---- | --- |
+|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img height="50" width="52" img src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" title="Skype" alt="Skype Logo" />
+--- | --- | --- |
 
 </p>
 
