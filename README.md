@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 <img height="48" style="margin: 6px;" src="./testng.png" alt="testng" /> <img height="48" style="margin: 6px;"  src="./junit.png" alt="junit" /> <img height="48" style="margin: 6px;"  src="./cucumber.png" alt="cucumber" />
 <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
+<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="90" height="45"/> </a>
 
  **SCM**
  
@@ -61,7 +63,15 @@ Here are some ideas to get you started:
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+
+ 
+  <a href="https://saucelabs.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-ar21.svg" alt="saucelabs" width="80" height="50"/> </a>
+  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" alt="browserstack" width="80" height="50"/> </a>
+   <a href="https://aerokube.com/selenoid/latest/" target="_blank" rel="noreferrer"> 
+  <img src="https://aerokube.com/selenoid/latest/img/og-image.jpg" alt="selenoid" width="80" height="50"/> </a>
 
 
 **Mobile Operating System**
@@ -112,6 +122,8 @@ Here are some ideas to get you started:
 <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://www.katalon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Katalon_Studio_logo.png?20180517091013" alt="katalon" width="80" height="45"/> </a>
 
  **Robot Framework**
  
