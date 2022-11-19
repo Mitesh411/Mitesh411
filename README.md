@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">Languages & Framework </h1>
 
 **Operating System**
 |<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>|<img src="https://img.icons8.com/color/344/mac-os-logo.png" alt="MacOS" width="60" height="60"/>
