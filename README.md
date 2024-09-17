@@ -115,8 +115,8 @@ Here are some ideas to get you started:
 **API Testing Tools**
  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<img src="https://miro.medium.com/max/400/1*dbeTcEaIPgyZZ6aaC519RQ.png" height="40" width="40" alt="restassured logo"  />
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
+
+
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </a>
