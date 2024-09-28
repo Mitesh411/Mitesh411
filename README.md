@@ -52,10 +52,11 @@ Here are some ideas to get you started:
 <a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
 <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="90" height="45"/> </a>
 
+
  **SCM**
  
-|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a>  
---- | 
+|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a>  
+--- | --- |
 
  **Dev-Ops Tools**
  
