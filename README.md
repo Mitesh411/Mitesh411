@@ -118,6 +118,7 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="graphql" width="40" height="40"/> </a> 
+<a href="https://rest-assured.io/" target="_blank" title ="REST assured" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" alt="REST assured" width="40" height="40"/> </a> 
 
 **Javascript & Typescript Based Framework**
  
@@ -133,8 +134,8 @@ Here are some ideas to get you started:
 --- |
  
  **Non-Functional Testing Tools**
-|<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img height="48" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" />
---- | --- |
+|<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img height="48" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" /> <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer">|<img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
+--- | --- |  --- |
 
  **Java Apache Libraries**
 |<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" height="50" width="52" alt="apache logo"  />
