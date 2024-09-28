@@ -52,6 +52,9 @@ Here are some ideas to get you started:
 <a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
 <img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="90" height="45"/> </a>
 
+ **U.I MockUp Tools**
+|<a href="https://www.figma.com/" target="_blank" title ="Figma" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+--- |
 
  **SCM**
  
