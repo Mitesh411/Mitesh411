@@ -35,6 +35,19 @@ Here are some ideas to get you started:
 - ✨ Contributions of any kind are welcome!
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
+<p align="center"> 
+ <strong>
+  Certifications
+  </strong>
+</p>
+<a href="https://www.credly.com/badges/9a89e24f-00f5-4c17-b9a4-6363ba44bd77/public_url" title="CertiProf-Lifelong Learning !">
+  <img src="https://images.credly.com/size/220x220/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" width="90" height="90"/>
+</a>
+<a href="https://www.credly.com/badges/0afcb821-9c80-415a-a6ae-c29b014ab589/public_url" title="Microsoft Certified: Azure Fundamentals">
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" height="90"/>
+</a>
+
+---
 
 <h1 align="left">Languages & Framework </h1>
 
