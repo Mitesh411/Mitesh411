@@ -135,7 +135,9 @@ Here are some ideas to get you started:
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://rest-assured.io/" target="_blank" title ="REST assured" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" alt="REST assured" width="40" height="40"/> </a> 
+<a href="https://rest-assured.io/" target="_blank" title ="REST assured" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" alt="REST assured" width="40" height="40"/> 
+   <a href="https://grpc.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="40"/>
+  </a>
 
 **Javascript & Typescript Based Framework**
  
