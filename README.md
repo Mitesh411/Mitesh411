@@ -46,6 +46,9 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/0afcb821-9c80-415a-a6ae-c29b014ab589/public_url" title="Microsoft Certified: Azure Fundamentals">
   <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" height="90"/>
 </a>
+<a href="https://www.credly.com/badges/ed9ba8f1-8e4a-47c5-81a8-22e13ba5bf16/public_url" title="AWS Certified Cloud Practitioner">
+  <img src="[https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png](https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)" width="90" height="90"/>
+</a>
 
 ---
 
