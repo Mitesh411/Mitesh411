@@ -36,9 +36,8 @@ Here are some ideas to get you started:
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
 <p align="center"> 
- <strong>
-  Certifications
-  </strong>
+ 
+<h1 align="center"> Certifications </h1>
 </p>
 <a href="https://www.credly.com/badges/9a89e24f-00f5-4c17-b9a4-6363ba44bd77/public_url" title="CertiProf-Lifelong Learning !">
   <img src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" width="100" height="100"/>
