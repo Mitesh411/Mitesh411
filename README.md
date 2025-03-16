@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
-<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" alt="serenity-bdd" width="90" height="45"/> </a>
+<img src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" alt="serenity-bdd" width="200" height="55"/> </a>
 
  **U.I MockUp Tools**
 |<a href="https://www.figma.com/" target="_blank" title ="Figma" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
