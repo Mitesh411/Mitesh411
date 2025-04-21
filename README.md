@@ -27,13 +27,13 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: ...                         **If You Find One then share with me. Happy to help you** 
 
-- ## Support
-- ⭐️ Simplest way to say Thanks is just to it a Star 🤩
-- ❤️ To show more support:
-   <img src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' alt="Coder GIF" width="50" height="50"> [BUY ME A COFFEE](https://buymeacoffee.com/dandademitz)
-   👏🏿 [sponsor me]
-- ✨ Contributions of any kind are welcome!
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
+## 💖 Support My Work
+
+-   ⭐️  **Star my repos**  if you find them useful
+    
+-   ☕️  [Buy Me a Coffee](https://buymeacoffee.com/dandademitz)
+    
+-   🌟  [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
 <p align="center"> 
  
