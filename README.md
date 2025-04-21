@@ -9,23 +9,10 @@
 
 
 
-Here are some ideas to get you started:
+👋 Welcome to My GitHub!
 
-- 🔭 I’m currently working on ...         **Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing** :)
+Hey there! I'm **Mitesh Dandade**, a passionate automation engineer with a knack for building robust testing frameworks and exploring cutting-edge DevOps tools. I love turning manual processes into seamless automated workflows. Thanks for stopping by! 😄
 
-- 🌱 I’m currently learning ...           **CI / CD with Docker with Real Time Reporting** 
-
-- 👯 I’m looking to collaborate on ...    **Cypress.io, PlayWright &  Scriptless Automation** 
-
-- 🤔 I’m looking for help with ...        **ML / NLP & Chatbot Testing**
-
-- 💬 Ask me about ...                     **Manual to Automation Testing** 
-
-- 📫 How to reach me: ...                 [![Linkedin Badge](https://img.shields.io/badge/-MiteshDandade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitesh-dandade-1a62085b)](https://www.linkedin.com/in/mitesh-dandade-1a62085b)
-
-- 😄 Pronouns: ...                        **He / Him**
-
-- ⚡ Fun fact: ...                         **If You Find One then share with me. Happy to help you** 
 
 ## 💖 Support My Work
 
