@@ -190,7 +190,7 @@ ________________________________________________________________________________
 
 <a href="mailto:mailme.dandademitesh@gmail.com">
   <img align="left" alt="Mitesh Dandade Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
-</a>
+</a> <a href="https://github.com/Mitesh411"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" alt="GitHub"></a>
   
   
 
