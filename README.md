@@ -148,6 +148,10 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.katalon.com/" target="_blank" rel="noreferrer"><img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" alt="katalon" width="80" height="45"/></a>
 
+**FrontEnd Coding**
+
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>  
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
 
  **Robot Framework**
  
