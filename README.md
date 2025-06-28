@@ -150,8 +150,8 @@ Here are some ideas to get you started:
 
 **FrontEnd Coding**
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>  
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+|<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>|<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
+--- | --- |
 
  **Robot Framework**
  
@@ -160,7 +160,7 @@ Here are some ideas to get you started:
  
  **Non-Functional Testing Tools**
 |<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img height="48" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" /> <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer">|<img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
---- | --- |  --- |
+  --- |
 
  **Java Apache Libraries**
 |<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" height="50" width="52" alt="apache logo"  />
