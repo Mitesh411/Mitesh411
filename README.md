@@ -9,30 +9,28 @@
 
 
 
-Here are some ideas to get you started:
+- ##  About Me:
 
-- 🔭 I’m currently working on ...         **Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing** :)
+    🔭 Currently working on: Java Automation Framework | Advanced API Automation | Performance Testing
 
-- 🌱 I’m currently learning ...           **CI / CD with Docker with Real Time Reporting** 
+    🌱 Currently learning: CI/CD with Docker and Real-Time Reporting
+    
+    😄 Pronouns: He/Him
 
-- 👯 I’m looking to collaborate on ...    **Cypress.io, PlayWright &  Scriptless Automation** 
+    ⚡ Fun Fact: If you find one, share it with me!
 
-- 🤔 I’m looking for help with ...        **ML / NLP & Chatbot Testing**
 
-- 💬 Ask me about ...                     **Manual to Automation Testing** 
-
-- 📫 How to reach me: ...                 [![Linkedin Badge](https://img.shields.io/badge/-MiteshDandade-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitesh-dandade-1a62085b)](https://www.linkedin.com/in/mitesh-dandade-1a62085b)
-
-- 😄 Pronouns: ...                        **He / Him**
-
-- ⚡ Fun fact: ...                         **If You Find One then share with me. Happy to help you** 
 
 - ## Support
-- ⭐️ Simplest way to say Thanks is just to it a Star 🤩
+
 - ❤️ To show more support:
    <img src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' alt="Coder GIF" width="50" height="50"> [BUY ME A COFFEE](https://buymeacoffee.com/dandademitz)
    👏🏿 [sponsor me]
+
+- ⭐️ Simplest way to say Thanks is just to it a Star 🤩  
 - ✨ Contributions of any kind are welcome!
+
+  
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 ---
 <p align="center"> 
