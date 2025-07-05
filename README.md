@@ -146,6 +146,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.katalon.com/" target="_blank" rel="noreferrer"><img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" alt="katalon" width="80" height="45"/></a>
+<img src="https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//playwright-seeklogo.svg" height= "48px" width="48px" alt="Playwright" title="Playwright"/>
 
 **FrontEnd Coding**
 
