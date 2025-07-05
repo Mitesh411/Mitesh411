@@ -61,11 +61,12 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <img src="https://img.icons8.com/officel/344/selenium-test-automation.png" height="40" width="40" alt="selenium logo"  />
-<img height="48" style="margin: 6px;" src="./testng.png" alt="testng" /> <img height="48" style="margin: 6px;"  src="./junit.png" alt="junit" /> <img height="48" style="margin: 6px;"  src="./cucumber.png" alt="cucumber" />
+<img width="40" height="40" src="./testng.png" alt="testng" /> <img width="40" height="40" style="margin: 6px;"  src="./junit.png" alt="junit" /> <img width="40" height="40" style="margin: 6px;"  src="./cucumber.png" alt="cucumber" />
 <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+ 
 <a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
-<img src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" alt="serenity-bdd" width="200" height="55"/> </a>
+<img img width="150" height="150" style="margin: 6px;" src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" alt="serenity-bdd" /> </a>
 
  **U.I MockUp Tools**
 |<a href="https://www.figma.com/" target="_blank" title ="Figma" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
@@ -129,7 +130,7 @@ Here are some ideas to get you started:
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
-<img height="55" src="/nginx-original.svg" alt="nginx">
+<img width="40" height="40" src="/nginx-original.svg" alt="nginx">
 
 **API Testing Tools**
  
@@ -159,9 +160,9 @@ Here are some ideas to get you started:
 --- |
  
  **Non-Functional Testing Tools**
-
-|<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img height="48" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" /> <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer">|<img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
---- | --- | --- |
+|<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img width="40" height="40" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" /> <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer">|<img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
+--- | --- |  --- |
+  
 
  **Java Apache Libraries**
 |<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" height="50" width="52" alt="apache logo"  />
@@ -169,7 +170,7 @@ Here are some ideas to get you started:
  
 **Communication Tool**
 
-|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img height="50" width="52" img src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" title="Skype" alt="Skype Logo" />
+|<img width="40" height="40" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img width="40" height="40" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img width="40" height="40" img src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" title="Skype" alt="Skype Logo" />
 --- | --- | --- |
 
 </p>
