@@ -169,8 +169,8 @@
  
 **Communication Tool**
 
-|<img width="40" height="40" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img width="40" height="40" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img width="40" height="40" img src="https://cdn.worldvectorlogo.com/logos/skype-3.svg" title="Skype" alt="Skype Logo" />
---- | --- | --- |
+|<img width="40" height="40" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img width="40" height="40" style="margin: 6px;"  src="./teams.png" alt="teams" /> 
+--- | --- |
 
 </p>
 
