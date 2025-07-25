@@ -11,10 +11,6 @@
 
 - ##  About Me:
 
-    🔭 Currently working on: Java Automation Framework | Advanced API Automation | Performance Testing
-
-    🌱 Currently learning: CI/CD with Docker and Real-Time Reporting
-    
     😄 Pronouns: He/Him
 
     ⚡ Fun Fact: If you find one, share it with me!
