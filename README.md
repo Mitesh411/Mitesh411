@@ -32,14 +32,19 @@
 <h1 align="center"> Certifications </h1>
 </p>
 <a href="https://www.credly.com/badges/9a89e24f-00f5-4c17-b9a4-6363ba44bd77/public_url" title="CertiProf-Lifelong Learning !">
-  <img src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" width="100" height="100"/>
+  <img src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" width="190" height="190"/>
 </a>
 <a href="https://www.credly.com/badges/0afcb821-9c80-415a-a6ae-c29b014ab589/public_url" title="Microsoft Certified: Azure Fundamentals">
-  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="90" height="90"/>
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="190" height="190"/>
 </a>
 <a href="https://www.credly.com/badges/ed9ba8f1-8e4a-47c5-81a8-22e13ba5bf16/public_url" title="AWS Certified Cloud Practitioner">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="90" height="90"/>
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="190" height="190"/>
 </a>
+<a href="https://www.istqb.in/about-us/certified-tester/foundation-level" title="Certified Tester Foundation Level (CTFL) v4.0">
+<img src="https://istqb.org/wp-content/uploads/2024/10/istqb-ctfl-4-logo.jpg.avif"width="190" height="190"/>
+</a>
+
+
 
 ---
 
