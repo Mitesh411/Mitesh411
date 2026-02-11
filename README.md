@@ -52,132 +52,112 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 
 
----
 
-<h1 align="left">Languages & Framework </h1>
-
-**Operating System**
-|<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>|<img src="https://devicons.railway.app/i/windows10.svg" alt="Windows" width="40" height="40"/>|<img src="https://img.icons8.com/color/344/mac-os-logo.png" alt="MacOS" width="60" height="60"/>
---- | --- | --- |
-
-**Java Based Testing & Reporting Tool**
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<img src="https://img.icons8.com/officel/344/selenium-test-automation.png" height="40" width="40" alt="selenium logo"  />
-<img width="40" height="40" src="./testng.png" alt="testng" /> <img width="40" height="40" style="margin: 6px;"  src="./junit.png" alt="junit" /> <img width="40" height="40" style="margin: 6px;"  src="./cucumber.png" alt="cucumber" />
-<img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="40" width="40" alt="allure logo"  />
-<a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
- 
-<a href="https://serenity-bdd.github.io/theserenitybook/latest/index.html" target="_blank" rel="noreferrer"> 
-<img img width="150" height="150" style="margin: 6px;" src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" alt="serenity-bdd" /> </a>
-
- **U.I MockUp Tools**
-|<a href="https://www.figma.com/" target="_blank" title ="Figma" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
---- |
-
- **SCM**
- 
-|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a>  
---- | --- |
-
- **Dev-Ops Tools**
- 
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> </a>
-<a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
- </a>
-
- 
-  <a href="https://saucelabs.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-ar21.svg" alt="saucelabs" width="80" height="50"/> </a>
-  <a href="https://www.browserstack.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" alt="browserstack" width="80" height="50"/> </a>
-   <a href="https://aerokube.com/selenoid/latest/" target="_blank" rel="noreferrer"> 
-  <img src="https://aerokube.com/selenoid/latest/img/og-image.jpg" alt="selenoid" width="80" height="50"/> </a>
+# 🧠 Languages & Frameworks
 
 
-**Mobile Operating System**
- 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>|<img src="https://devicons.railway.app/i/apple-dark.svg" alt="selenium" width="40" height="40"/> </a>
- --- | --- |
 
- **Real Time Monitoring Tool**
- 
- |<a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
---- |
+ 💻 **Operating Systems**
 
- **Node Environment Tools**
- 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://jasmine.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://mochajs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> 
+| Linux                                                                                                            | Windows                                                              | macOS                                                                    |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://devicons.railway.app/i/windows10.svg" width="40"/> | <img src="https://img.icons8.com/color/344/mac-os-logo.png" width="40"/> |
 
 
-</a> 
 
-**Application Lifecycle Management Tools**
- 
-|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" width="52" alt="jira logo"  />
---- |
+## ☕ Java-Based Automation & Testing
 
-**BackEnd Database Provider** 
- 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
-<img width="40" height="40" src="/nginx-original.svg" alt="nginx">
+| Java                                                                                                           | Selenium                                                                                | TestNG                               | JUnit                               | Cucumber                               | Allure                                                                            | Spring                                                                               | Serenity BDD                                                                                               |
+| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://img.icons8.com/officel/344/selenium-test-automation.png" width="40"/> | <img src="./testng.png" width="40"/> | <img src="./junit.png" width="40"/> | <img src="./cucumber.png" width="40"/> | <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> | <img src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" width="60"/> |
 
-**API Testing Tools**
- 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /></a>
-<a href="https://socket.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://rest-assured.io/" target="_blank" title ="REST assured" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" alt="REST assured" width="40" height="40"/> 
-   <a href="https://grpc.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="40"/>
-  </a>
 
-**Javascript & Typescript Based Framework**
- 
-<a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.katalon.com/" target="_blank" rel="noreferrer"><img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" alt="katalon" width="80" height="45"/></a>
-<img src="https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//playwright-seeklogo.svg" height= "48px" width="48px" alt="Playwright" title="Playwright"/>
 
-**FrontEnd Coding**
+## 🟨 JavaScript / TypeScript Automation
 
-|<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"/>|<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS"/>
---- | --- |
+| JavaScript                                                                                                                 | TypeScript                                                                                                                 | Cypress                                                                                                                                        | Playwright                                                                                                                | Puppeteer                                                                              | Katalon                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40"/> | <img src="https://ocpaxmghzmfbuhxzxzae.supabase.co/storage/v1/object/public/images//playwright-seeklogo.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40"/> | <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="70"/> |
 
- **Robot Framework**
- 
-|<img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="40" width="52" alt="robot logo"  />
---- |
- 
- **Non-Functional Testing Tools**
-|<img src="https://jmeter.apache.org/images/jmeter_square.png" height="40" width="52" alt="jmeter logo"/>|<img width="40" height="40" style="margin: 6px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" alt="K6" /> <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer">|<img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
---- | --- |  --- |
-  
 
- **Java Apache Libraries**
-|<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-shadow-tal-revivo.png" height="50" width="52" alt="apache logo"  />
---- |
- 
-**Communication Tool**
 
-|<img width="40" height="40" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img width="40" height="40" style="margin: 6px;"  src="./teams.png" alt="teams" /> 
---- | --- |
+## 🌐 Frontend Technologies
 
-</p>
+| HTML5                                                                         | CSS3                                                                    |
+| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/> |
+
+
+
+## 🟩 Node.js Ecosystem
+
+| Node.js                                                                                                                     | MongoDB                                                                                                                       | Jasmine                                                                            | Jest                                                                                 | Mocha                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40"/> |
+
+
+
+## 🧪 API Testing & Communication
+
+| Postman                                                                                  | REST                                                                            | GraphQL                                                                         | gRPC                                                                             | REST Assured                                                                                        | Socket.IO                                                                     |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="60"/> | <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" width="40"/> |
+
+
+
+## 🗄️ Databases
+
+| PostgreSQL                                                                                                                 | MySQL                                                                         | Oracle                                                                                                | SQL Server                                                                                                                 | MongoDB                                                                                                 |
+| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/> |
+
+
+
+## 🚀 DevOps & Cloud
+
+| Docker                                                                         | Kubernetes                                                                               | Jenkins                                                                            | GitLab                                                                                                | AWS                                                                         | Sauce Labs                                                                             | BrowserStack                                                                                 | Selenoid                                                                      |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-ar21.svg" width="70"/> | <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" width="70"/> | <img src="https://aerokube.com/selenoid/latest/img/og-image.jpg" width="70"/> |
+
+
+
+## 🔄 Version Control & SCM
+
+| Git                                                                                | GitHub                                                                         |
+| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40"/> |
+
+
+
+## 📊 Monitoring & Reporting
+
+| Grafana                                                                            | Allure                                                                            |
+| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/> | <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" width="40"/> |
+
+
+
+## 📱 Mobile Platforms
+
+| Android                                                                                                                       | iOS                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/> | <img src="https://devicons.railway.app/i/apple-dark.svg" width="40"/> |
+
+
+
+## 🎨 UI/UX & Collaboration
+
+| Figma                                                                          | Jira                                                                                              | Slack                               | Microsoft Teams                     |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- |
+| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/> | <img src="./slack.png" width="40"/> | <img src="./teams.png" width="40"/> |
+
+
+
+## 🤖 Other Testing Tools
+
+| Robot Framework                                                                                   | JMeter                                                                     | k6                                                                                      | BlazeMeter                                                                                                                     |
+| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" width="40"/> | <img src="https://jmeter.apache.org/images/jmeter_square.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="40"/> | <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" width="40"/> |
 
 
 
