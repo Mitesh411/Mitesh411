@@ -164,8 +164,99 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" width="40"/> | <img src="https://jmeter.apache.org/images/jmeter_square.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="40"/> | <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" width="40"/> |
 
 
+------
 
 
+---
+
+# 🧪 Test Automation Architect – Tooling Landscape
+
+---
+
+## 📱 Mobile Test Automation
+
+| Appium                                                                                       | Espresso                                                                                              | XCUITest                                                                                             | Detox                                                                                                  |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Espresso_Android_Logo.png" width="60"/> | <img src="https://developer.apple.com/assets/elements/icons/xctest/xctest-96x96_2x.png" width="60"/> | <img src="https://raw.githubusercontent.com/wix/Detox/master/website/static/img/logo.svg" width="60"/> |
+
+---
+
+## 🌐 Web & UI Test Automation
+
+| Selenium                                                                               | Playwright                                                             | Cypress                                                                                      | Robot Framework                                                                                   | WebdriverIO                                                      |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="60"/> | <img src="https://playwright.dev/img/playwright-logo.svg" width="60"/> | <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" width="60"/> | <img src="https://webdriver.io/img/webdriverio.png" width="60"/> |
+
+---
+
+## 🔌 API & Contract Testing
+
+| Pact                                                              | Postman                                                                                  | Rest Assured                                                                       | Karate DSL                                                                         | WireMock                                                                 | MockServer                                                                      |
+| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| <img src="https://pact.io/assets/img/logo-black.png" width="60"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/11034113?s=200&v=4" width="60"/> | <img src="https://wiremock.org/images/wiremock-concept.png" width="60"/> | <img src="https://www.mock-server.com/images/mock-server-logo.png" width="60"/> |
+
+---
+
+## ⚡ Performance & Load Testing
+
+| JMeter                                                                     | k6                                                                                      | BlazeMeter                                                                                                                     | Gatling                                                    | Locust                                                                    |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <img src="https://jmeter.apache.org/images/jmeter_square.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="60"/> | <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" width="60"/> | <img src="https://cdn.prod.website-files.com/685a8fe4ddca049f26333871/685d6a0e417481e14f3eb1f6_Gatling.webp" width="60"/> | <img src="https://avatars.githubusercontent.com/u/2641063?s=200&v=4" width="60"/> |
+
+---
+
+## 🔒 Security Testing
+
+| OWASP ZAP                                                                | Burp Suite                                                                               | Dependency-Check                                                 | Snyk                                                                               | Trivy                                                                              |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| <img src="https://www.zaproxy.org/img/zap-by-checkmarx.svg" width="60"/> | <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60"/> | <img src="https://owasp.org/assets/images/logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/19733683?s=200&v=4" width="60"/> | <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="60"/> |
+
+---
+
+## 🧱 Test Infrastructure & Environment
+
+| TestContainers                                                                    | Docker                                                                                  | Docker Compose                                                                           | Kubernetes                                                                                                       | Vagrant                                                                   |
+| --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| <img src="https://testcontainers.com/images/testcontainers-logo.svg" width="60"/> | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60"/> | <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" width="60"/> |
+
+---
+
+## 🔁 CI/CD & Test Orchestration
+
+| Jenkins                                                                         | GitHub Actions                                                                                    | GitLab CI                                                                                  | Azure DevOps                                                                   | CircleCI                                                                         |
+| ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://img.logokit.com/circleci.com" width="60"/> |
+
+---
+
+## 🧩 BDD & Test Design
+
+| Cucumber                                                                         | SpecFlow                                                                                  | Behave                                                                                  | Gauge                                                               |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60"/> | <img src="https://specflow.org/wp-content/uploads/2020/10/SpecFlow-Icon.png" width="60"/> | <img src="https://behave.readthedocs.io/en/stable/_static/behave_logo.png" width="60"/> | <img src="https://gauge.org/assets/img/gauge-logo.png" width="60"/> |
+
+---
+
+## 📊 Reporting & Observability
+
+| Allure                                                                            | Extent Reports                                                                  | ReportPortal                                                           | Grafana                                                                                      | ELK Stack                                                                                    |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="60"/> | <img src="https://extentreports.com/images/extentreports-logo.png" width="60"/> | <img src="https://reportportal.io/static/images/logo.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Elastic_logo.svg" width="60"/> |
+
+---
+
+## 🧠 Quality Engineering Utilities
+
+| SonarQube                                                                        | JaCoCo                                                            | Istanbul (NYC)                                                        | Faker                                                                            | Test Data Builders                                                              |
+| -------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" width="60"/> | <img src="https://www.eclemma.org/images/jacoco.png" width="60"/> | <img src="https://istanbul.js.org/img/istanbul-logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/180206?s=200&v=4" width="60"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/> |
+
+---
+
+
+
+
+--------
 **Browser Support**
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Brave](https://github.com/alrra/browser-logos/blob/main/src/brave/brave_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 --- | --- | --- | --- | --- |
