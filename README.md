@@ -159,10 +159,6 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- |
 | <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="80"/> | <img src="https://testcontainers.com/images/testcontainers-logo.svg" width="80"/> | <img src="https://pact.io/assets/img/logo-black.png" width="80"/> | <img src="https://www.zaproxy.org/img/zap-by-checkmarx.svg" width="80"/> |
 
-
-
-## 🤖 Other Testing Tools
-
 | Robot Framework                                                                                   | JMeter                                                                     | k6                                                                                      | BlazeMeter                                                                                                                     |
 | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" width="40"/> | <img src="https://jmeter.apache.org/images/jmeter_square.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="40"/> | <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" width="40"/> |
