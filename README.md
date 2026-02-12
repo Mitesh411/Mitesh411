@@ -160,6 +160,15 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 | <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" width="60"/> | <img src="https://www.eclemma.org/images/jacoco.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1834093?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/97165289?s=200&v=4" width="60"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/> |
 
 ---
+**Communication Tool**
+
+| Slack | Teams | Google Meet |
+|--------|----------------|--------------|
+|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img height="50" width="52" img src="https://github.com/user-attachments/assets/18bf3c45-7f89-4043-962d-c479f96d779e" title="Skype" alt="Skype Logo" />
+
+
+
+
 
 
 --------
