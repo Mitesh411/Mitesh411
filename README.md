@@ -93,7 +93,7 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 | Appium | Espresso | XCUITest | Detox |
 |--------|----------|----------|-------|
-| <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="60"/> | <img src="https://developer.android.com/static/images/training/testing/espresso.png" width="60"/> | <img src="https://developer.apple.com/assets/elements/icons/xctest/xctest-96x96_2x.png" width="60"/> | <img src="https://wix.github.io/Detox/img/logo.png" width="60"/> |
+| <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="60"/> | <img src="https://developer.android.com/static/images/training/testing/espresso.png" width="60"/> | <img src="https://appetiser.com.au/wp-content/uploads/2023/11/tfmat-xcuitest-logo-1.jpeg" width="60"/> | <img src="https://wix.github.io/Detox/img/logo.png" width="60"/> |
 
 ---
 
@@ -139,9 +139,9 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 ## 🧩 BDD & Test Design
 
-| Cucumber | SpecFlow | Behave | Gauge |
+| Cucumber | Reqnroll | Behave | Gauge |
 |---------|----------|--------|-------|
-| <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60"/> | <img src="https://specflow.org/wp-content/uploads/2020/10/SpecFlow-Icon.png" width="60"/> | <img src="https://behave.readthedocs.io/en/stable/_static/behave_logo.png" width="60"/> | <img src="https://gauge.org/assets/img/gauge-logo.png" width="60"/> |
+| <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60"/> | <img src="https://reqnroll.net/assets/images/reqnroll-logo-130x48.png" width="60"/> | <img src="https://behave.readthedocs.io/en/stable/_static/behave_logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/7044589?s=200&v=4" width="60"/> |
 
 ---
 
@@ -149,7 +149,7 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 | Allure | Extent Reports | ReportPortal | Grafana | ELK Stack |
 |--------|----------------|--------------|---------|-----------|
-| <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="60"/> | <img src="https://extentreports.com/images/extentreports-logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/17636279?s=200&v=4" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Elastic_logo.svg" width="60"/> |
+| <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/41491836?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/17636279?s=200&v=4" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="60"/> | <img src="https://images.seeklogo.com/logo-png/33/1/elastic-stack-logo-png_seeklogo-333576.png" width="60"/> |
 
 ---
 
@@ -178,6 +178,11 @@ ________________________________________________________________________________
 <a href="mailto:mailme.dandademitesh@gmail.com">
   <img align="left" alt="Mitesh Dandade Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
 </a> <a href="https://github.com/Mitesh411"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" alt="GitHub"></a>
-  
-  
+
+  _____________________________________________________________________________________________________________________________________
+## Ownership of Logo and Brand Assets
+
+All logos, brand icons, trademarks, service marks, trade names, and other related visual elements (collectively, the “Brand Assets”) are and shall remain the exclusive property of their respective company. Such Brand Assets are protected by applicable trademark, copyright, and other intellectual property laws.
+
+Nothing in these Terms shall be construed as granting any ownership rights, title, or interest in the Brand Assets to any third party. Any and all goodwill generated through the use of the Brand Assets shall inure solely to the benefit of their respective company.  
 
