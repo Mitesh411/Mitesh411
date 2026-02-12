@@ -56,120 +56,122 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 # 🧠 Languages & Frameworks
 
 
+## 💻 Operating Systems
 
- 💻 **Operating Systems**
-
-| Linux                                                                                                            | Windows                                                              | macOS                                                                    |
-| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Linux | Windows | macOS |
+|------|---------|-------|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://devicons.railway.app/i/windows10.svg" width="40"/> | <img src="https://img.icons8.com/color/344/mac-os-logo.png" width="40"/> |
 
+---
+
+## 🌐 Programming Languages
+
+| Java | JavaScript | TypeScript |
+|------|------------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> |
+
+---
+
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>  Java-Based Automation Testing Tool
+
+| Selenium                                                                                | TestNG                               | JUnit                               | Cucumber                               | Allure                                                                            | Spring                                                                               | Serenity BDD                                                                                               |
+| --------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
+| <img src="https://img.icons8.com/officel/344/selenium-test-automation.png" width="40"/> | <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="40"/> | <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> | <img src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" width="60"/> |
 
 
-## ☕ Java-Based Automation & Testing
+ ---
 
-| Java                                                                                                           | Selenium                                                                                | TestNG                               | JUnit                               | Cucumber                               | Allure                                                                            | Spring                                                                               | Serenity BDD                                                                                               |
-| -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------ | ----------------------------------- | -------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://img.icons8.com/officel/344/selenium-test-automation.png" width="40"/> | <img src="https://avatars.githubusercontent.com/u/12528662?s=200&v=4" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" width="40"/> | <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> | <img src="https://github.com/serenity-bdd/serenity-core/blob/main/docs/serenity-bdd-logo.png" width="60"/> |
+ ## 🟨 JavaScript / TypeScript Automation
 
-
-
-## 🟨 JavaScript / TypeScript Automation
-
-| JavaScript                                                                                                                 | TypeScript                                                                                                                 | Cypress                                                                                                                                        | Playwright                                                                                                                | Puppeteer                                                                              | Katalon                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" width="40"/> | <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40"/> | <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="70"/> |
-
-
-
-## 🌐 Frontend Technologies
-
-| HTML5                                                                         | CSS3                                                                    |
-| ----------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/css3.png" width="40"/> |
-
-
-
-## 🟩 Node.js Ecosystem
-
-| Node.js                                                                                                                     | MongoDB                                                                                                                       | Jasmine                                                                            | Jest                                                                                 | Mocha                                                                              |
-| --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" width="40"/> |
+| Cypress                                                                                                                                        | Playwright                                                                                                                | Puppeteer                                                                              | Katalon                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" width="40"/> | <img src="https://playwright.dev/img/playwright-logo.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" width="40"/> | <img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="70"/> |
 
 
 
-## 🧪 API Testing & Communication
+## 📱 Mobile Test Automation
 
-| Postman                                                                                  | REST                                                                            | GraphQL                                                                         | gRPC                                                                             | REST Assured                                                                                        | Socket.IO                                                                     |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> |     | <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="60"/> | <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" width="40"/> |
+| Appium | Espresso | XCUITest | Detox |
+|--------|----------|----------|-------|
+| <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="60"/> | <img src="https://developer.android.com/static/images/training/testing/espresso.png" width="60"/> | <img src="https://appetiser.com.au/wp-content/uploads/2023/11/tfmat-xcuitest-logo-1.jpeg" width="60"/> | <img src="https://wix.github.io/Detox/img/logo.png" width="60"/> |
+
+---
+
+## 🔌 API & Contract Testing
+
+| Postman | REST Assured | GraphQL | gRPC | Pact | Karate DSL | WireMock | MockServer |
+|--------|--------------|---------|------|------|------------|----------|------------|
+| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/19369327?s=200&v=4" width="60"/> | <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" width="60"/> | <img src="https://pact.io/assets/img/logo-black.png" width="60"/> | <img src="https://raw.githubusercontent.com/karatelabs/.github/main/profile/karate-labs-wide-black.png" width="60"/> | <img src="https://wiremock.org/images/shortLogo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/36341891?s=200&v=4" width="60"/> |
+
+---
+
+## ⚡ Performance & Load Testing
+
+| JMeter | k6 | Gatling | Locust | BlazeMeter |
+|-------|----|---------|--------|------------|
+| <img src="https://jmeter.apache.org/images/jmeter_square.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="60"/> | <img src="https://cdn.prod.website-files.com/685a8fe4ddca049f26333871/685d6a0e417481e14f3eb1f6_Gatling.webp" width="60"/> | <img src="https://avatars.githubusercontent.com/u/2641063?s=200&v=4" width="60"/> | <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" width="60"/> |
+
+---
+
+## 🔒 Security Testing
+
+| OWASP ZAP | Burp Suite | Dependency-Check | Snyk | Trivy |
+|-----------|------------|------------------|------|-------|
+| <img src="https://www.zaproxy.org/img/zap-by-checkmarx.svg" width="60"/> | <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60"/> | <img src="https://owasp.org/assets/images/logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/19733683?s=200&v=4" width="60"/> | <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="60"/> |
+
+---
+
+## 🧱 Test Infrastructure & Environment
+
+| TestContainers | Docker | Docker Compose | Kubernetes | Vagrant |
+|---------------|--------|----------------|------------|---------|
+| <img src="https://testcontainers.com/images/testcontainers-logo.svg" width="60"/> | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60"/> | <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" width="60"/> |
+
+---
+
+## 🔁 CI/CD & Test Orchestration
+
+| Jenkins | GitHub Actions | GitLab CI | Azure DevOps | CircleCI |
+|--------|----------------|-----------|---------------|----------|
+| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" width="60"/> |
+
+---
+
+## 🧩 BDD & Test Design
+
+| Cucumber | Reqnroll | Behave | Gauge |
+|---------|----------|--------|-------|
+| <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60"/> | <img src="https://reqnroll.net/assets/images/reqnroll-logo-130x48.png" width="60"/> | <img src="https://behave.readthedocs.io/en/stable/_static/behave_logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/7044589?s=200&v=4" width="60"/> |
+
+---
+
+## 📊 Reporting & Observability
+
+| Allure | Extent Reports | ReportPortal | Grafana | ELK Stack |
+|--------|----------------|--------------|---------|-----------|
+| <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/41491836?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/17636279?s=200&v=4" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="60"/> | <img src="https://images.seeklogo.com/logo-png/33/1/elastic-stack-logo-png_seeklogo-333576.png" width="60"/> |
+
+---
+
+## 🧠 Quality Engineering Utilities
+
+| SonarQube | JaCoCo | Codacy | Faker JS | Test Data Builders |
+|----------|--------|----------------|-------|--------------------|
+| <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" width="60"/> | <img src="https://www.eclemma.org/images/jacoco.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1834093?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/97165289?s=200&v=4" width="60"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/> |
+
+---
+**Communication Tool**
+
+| Slack | Teams | Google Meet |
+|--------|----------------|--------------|
+|<img height="48" style="margin: 6px;" src="./slack.png" alt="slack" /> | <img height="48" style="margin: 6px;"  src="./teams.png" alt="teams" /> | <img height="50" width="52" img src="https://github.com/user-attachments/assets/18bf3c45-7f89-4043-962d-c479f96d779e" title="Skype" alt="Skype Logo" />
 
 
 
-## 🗄️ Databases
-
-| PostgreSQL                                                                                                                 | MySQL                                                                         | Oracle                                                                                                | SQL Server                                                                                                                 | MongoDB                                                                                                 |
-| -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> | 
 
 
 
-## 🚀 DevOps & Cloud
-
-| Docker                                                                         | Kubernetes                                                                               | Jenkins                                                                            | GitLab                                                                                                | AWS                                                                         | Sauce Labs                                                                             | BrowserStack                                                                                 | Selenoid                                                                      |
-| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-ar21.svg" width="70"/> | <img src="https://www.vectorlogo.zone/logos/browserstack/browserstack-ar21.svg" width="70"/> | <img src="https://aerokube.com/selenoid/latest/img/og-image.jpg" width="70"/> |
-
-
-
-## 🔄 Version Control & SCM
-
-| Git                                                                                | GitHub                                                                         |
-| ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40"/> |
-
-
-
-## 📊 Monitoring & Reporting
-
-| Grafana                                                                            | Allure                                                                            |
-| ---------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="40"/> |
-
-
-
-## 📱 Mobile Platforms
-
-| Android                                                                                                                       | iOS                                                                   |
-| ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/> |
-
-
-
-## 🎨 UI/UX & Collaboration
-
-| Figma                                                                          | Jira                                                                                              | Slack                               | Microsoft Teams                     |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- |
-| <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40"/> | <img src="./slack.png" width="40"/> | <img src="./teams.png" width="40"/> |
-
-
-
-## ➕ Test Automation Architect
-
-| Appium                                                                          | TestContainers                                                                                              | Pact (Contract Testing)                              | OWASP ZAP (Security Testing)                    |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- | ----------------------------------- | ----------------------------------- |
-| <img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="80"/> | <img src="https://testcontainers.com/images/testcontainers-logo.svg" width="80"/> | <img src="https://pact.io/assets/img/logo-black.png" width="80"/> | <img src="https://www.zaproxy.org/img/zap-by-checkmarx.svg" width="80"/> |
-
-
-
-## 🤖 Other Testing Tools
-
-| Robot Framework                                                                                   | JMeter                                                                     | k6                                                                                      | BlazeMeter                                                                                                                     |
-| ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" width="40"/> | <img src="https://jmeter.apache.org/images/jmeter_square.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/K6-logo.svg" width="40"/> | <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" width="40"/> |
-
-
-
-
+--------
 **Browser Support**
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Brave](https://github.com/alrra/browser-logos/blob/main/src/brave/brave_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 --- | --- | --- | --- | --- |
@@ -185,6 +187,11 @@ ________________________________________________________________________________
 <a href="mailto:mailme.dandademitesh@gmail.com">
   <img align="left" alt="Mitesh Dandade Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
 </a> <a href="https://github.com/Mitesh411"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" alt="GitHub"></a>
-  
-  
+
+  _____________________________________________________________________________________________________________________________________
+## Ownership of Logo and Brand Assets
+
+All logos, brand icons, trademarks, service marks, trade names, and other related visual elements (collectively, the “Brand Assets”) are and shall remain the exclusive property of their respective company. Such Brand Assets are protected by applicable trademark, copyright, and other intellectual property laws.
+
+Nothing in these Terms shall be construed as granting any ownership rights, title, or interest in the Brand Assets to any third party. Any and all goodwill generated through the use of the Brand Assets shall inure solely to the benefit of their respective company.  
 
