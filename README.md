@@ -133,7 +133,7 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 | Jenkins | GitHub Actions | GitLab CI | Azure DevOps | CircleCI |
 |--------|----------------|-----------|---------------|----------|
-| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://img.logokit.com/circleci.com" width="60"/> |
+| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" width="60"/> |
 
 ---
 
@@ -155,9 +155,9 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 ## 🧠 Quality Engineering Utilities
 
-| SonarQube | JaCoCo | Istanbul (NYC) | Faker | Test Data Builders |
+| SonarQube | JaCoCo | Codacy | Faker JS | Test Data Builders |
 |----------|--------|----------------|-------|--------------------|
-| <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" width="60"/> | <img src="https://www.eclemma.org/images/jacoco.png" width="60"/> | <img src="https://istanbul.js.org/img/istanbul-logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/180206?s=200&v=4" width="60"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/> |
+| <img src="https://avatars.githubusercontent.com/u/545988?s=200&v=4" width="60"/> | <img src="https://www.eclemma.org/images/jacoco.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1834093?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/97165289?s=200&v=4" width="60"/> | <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" width="60"/> |
 
 ---
 
