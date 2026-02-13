@@ -144,6 +144,18 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 | <img src="https://avatars.githubusercontent.com/u/320565?s=200&v=4" width="60"/> | <img src="https://reqnroll.net/assets/images/reqnroll-logo-130x48.png" width="60"/> | <img src="https://behave.readthedocs.io/en/stable/_static/behave_logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/7044589?s=200&v=4" width="60"/> |
 
 ---
+**BackEnd Database Provider** 
+ 
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
+<img height="55" src="/nginx-original.svg" alt="nginx">
+
+---
+
 
 ## 📊 Reporting & Observability
 
