@@ -123,17 +123,17 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 ## 🧱 Test Infrastructure & Environment
 
-| TestContainers | Docker | Docker Compose | Kubernetes | Vagrant |
-|---------------|--------|----------------|------------|---------|
-| <img src="https://testcontainers.com/images/testcontainers-logo.svg" width="60"/> | <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="60"/> | <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" width="60"/> |
+| TestContainers | Docker | Docker Compose | Kubernetes | Vagrant | Browserstack | Sauce Labs |
+|---------------|--------|----------------|------------|---------|------------|---------|
+| <img src="https://testcontainers.com/images/testcontainers-logo.svg" width="60"/> | <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" width="60"/> | <img src="https://raw.githubusercontent.com/docker/compose/master/logo.png" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/hashicorp-vagrant.svg" width="60"/> | <img src="https://camo.githubusercontent.com/ade33e6de8b255fdf0a4c6177e8dc7260c6004d3d06c6a887313b609d50a22ba/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f62726f77736572737461636b2f62726f77736572737461636b2d617232312e737667" width="100"/> | <img src="https://camo.githubusercontent.com/58ffb022343462792ad16279120d6d4cc40038ff52d18fe8d3777ac34c1f561e/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73617563656c6162732f73617563656c6162732d617232312e737667" width="100"/> |
 
 ---
 
 ## 🔁 CI/CD & Test Orchestration
 
-| Jenkins | GitHub Actions | GitLab CI | Azure DevOps | CircleCI |
-|--------|----------------|-----------|---------------|----------|
-| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" width="60"/> |
+| Jenkins | GitHub Actions | GitLab CI | Azure DevOps | CircleCI |  AWS |
+|--------|----------------|-----------|---------------|----------| ----------|
+| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" width="60"/> | <img src = "https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="60"/>   |
 
 ---
 
@@ -168,7 +168,14 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 
 
+ **U.I MockUp Tools**
+|<a href="https://www.figma.com/" target="_blank" title ="Figma" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
+--- |
 
+ **SCM**
+ 
+|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a>  
+--- | --- |
 
 
 --------
