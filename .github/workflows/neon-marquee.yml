@@ -1,0 +1,56 @@
+name: Neon Marquee Contributions
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Download contribution chart
+        run: |
+          curl -o contrib.svg https://ghchart.rshah.org/Mitesh411
+
+      - name: Generate Neon Marquee SVG
+        run: |
+          echo '<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220">
+
+          <style>
+          .text {
+            font: bold 28px monospace;
+            fill: #39ff14;
+            filter: drop-shadow(0 0 6px #39ff14) drop-shadow(0 0 12px #39ff14);
+          }
+
+          .marquee {
+            animation: scroll 12s linear infinite;
+          }
+
+          @keyframes scroll {
+            from { transform: translateX(100%); }
+            to { transform: translateX(-100%); }
+          }
+          </style>
+
+          <g class="marquee">
+            <text x="0" y="35" class="text">
+              Mitesh411 • GitHub Contributions • Mitesh411 • GitHub Contributions
+            </text>
+
+            <image href="contrib.svg" x="0" y="55" height="140"/>
+          </g>
+
+          </svg>' > neon-marquee.svg
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
