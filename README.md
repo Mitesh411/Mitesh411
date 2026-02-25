@@ -1,3 +1,9 @@
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Mitesh411/Mitesh411/output/neon-marquee.svg" alt="Neon Contribution Marquee"/>
+</h2>
+
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
 
  
