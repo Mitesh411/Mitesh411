@@ -5,7 +5,7 @@
 
 ### Love to See You Here 
 
-<img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
+<img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' alt="Handshake animation" width="100px" />
 
 
 
@@ -18,7 +18,7 @@
 - ## Support
 
 - ❤️ To show more support:
-   <img src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' alt="Coder GIF" width="50" height="50"> [BUY ME A COFFEE](https://buymeacoffee.com/dandademitz)
+   <img src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' alt="Buy Me A Coffee Logo" width="50" height="50"> [BUY ME A COFFEE](https://buymeacoffee.com/dandademitz)
    👏🏿 [sponsor me]
 
 - ⭐️ Simplest way to say Thanks is just to it a Star 🤩  
@@ -32,16 +32,16 @@
 <h1 align="center"> Certifications </h1>
 </p>
 <a href="https://www.credly.com/badges/9a89e24f-00f5-4c17-b9a4-6363ba44bd77/public_url" title="CertiProf-Lifelong Learning !">
-  <img src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" width="190" height="190"/>
+  <img src="https://images.credly.com/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob" alt="CertiProf-Lifelong Learning Badge" width="190" height="190"/>
 </a>
 <a href="https://www.credly.com/badges/0afcb821-9c80-415a-a6ae-c29b014ab589/public_url" title="Microsoft Certified: Azure Fundamentals">
-  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="190" height="190"/>
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals Badge" width="190" height="190"/>
 </a>
 <a href="https://www.credly.com/badges/ed9ba8f1-8e4a-47c5-81a8-22e13ba5bf16/public_url" title="AWS Certified Cloud Practitioner">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="190" height="190"/>
+  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner Badge" width="190" height="190"/>
 </a>
 <a href="https://www.istqb.in/about-us/certified-tester/foundation-level" title="Certified Tester Foundation Level (CTFL) v4.0">
-<img src="https://istqb.org/wp-content/uploads/2024/10/istqb-ctfl-4-logo.jpg.avif"width="190" height="190"/>
+<img src="https://istqb.org/wp-content/uploads/2024/10/istqb-ctfl-4-logo.jpg.avif" alt="Certified Tester Foundation Level (CTFL) v4.0 Badge" width="190" height="190"/>
 </a>
 
 
@@ -71,16 +71,16 @@
 
  **SCM**
  
-|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" /></a>  
+|<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /></a>
 --- | --- |
 
  **Dev-Ops Tools**
  
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" /> </a>
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /> </a>
 <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" width="52" alt="gitlab logo"  />
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50" />
  </a>
 
  
@@ -124,7 +124,7 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
 <img width="40" height="40" src="/nginx-original.svg" alt="nginx">
@@ -132,8 +132,8 @@
 **API Testing Tools**
  
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" /></a>
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="50" height="50" /></a>
 <a href="https://socket.io/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" alt="graphql" width="40" height="40"/> </a> 
 <a href="https://rest-assured.io/" target="_blank" title ="REST assured" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" alt="REST assured" width="40" height="40"/> 
    <a href="https://grpc.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg" alt="grpc" width="80" height="40"/>
@@ -190,7 +190,7 @@ ________________________________________________________________________________
 
 <a href="mailto:mailme.dandademitesh@gmail.com">
   <img align="left" alt="Mitesh Dandade Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
-</a> <a href="https://github.com/Mitesh411"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" alt="GitHub"></a>
+</a> <a href="https://github.com/Mitesh411"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50"></a>
   
   
 
