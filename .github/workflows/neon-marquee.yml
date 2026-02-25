@@ -22,14 +22,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Download contribution chart
-        run: |
-          # fail early on network error, follow redirects, be quiet except on error
-          curl --fail --show-error --silent -L -o contrib.svg "https://ghchart.rshah.org/${{ github.repository_owner }}"
-
       - name: Generate Neon Marquee SVG
         run: |
-          cat > neon-marquee.svg <<'SVG'
+          mkdir -p dist
+          # fail early on network error, follow redirects, be quiet except on error
+          curl --fail --show-error --silent -L -o dist/contrib.svg "https://ghchart.rshah.org/${{ github.repository_owner }}"
+
+          cat > dist/neon-marquee.svg <<'SVG_HEADER'
           <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220">
 
           <style>
@@ -54,17 +53,24 @@ jobs:
               Mitesh411 • GitHub Contributions • Mitesh411 • GitHub Contributions
             </text>
 
-            <image href="contrib.svg" x="0" y="55" height="140"/>
+            <g transform="translate(0, 55)">
+          SVG_HEADER
+
+          # Remove XML declaration and DOCTYPE from contrib.svg and append
+          sed -e 's/<?xml[^>]*>//g' -e 's/<!DOCTYPE[^>]*>//g' dist/contrib.svg >> dist/neon-marquee.svg
+
+          cat >> dist/neon-marquee.svg <<'SVG_FOOTER'
+            </g>
           </g>
 
           </svg>
-          SVG
+          SVG_FOOTER
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: .
+          build_dir: dist
           create_branch: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
