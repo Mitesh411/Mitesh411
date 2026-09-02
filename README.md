@@ -12,23 +12,23 @@
 
 
 
-- ##  💫 About Me:
+# Mitesh Dandade — Quality Assurance Engineer & Test Automation Architect
 
-I am a passionate **Quality Assurance Engineer** and **Test Automation Architect** dedicated to building robust, scalable testing frameworks and ensuring high-quality software delivery.
+Hi — I'm Mitesh, a Quality Assurance Engineer and Test Automation Architect focused on building robust, scalable testing frameworks and integrating test automation into CI/CD pipelines.
 
-* 🛠️ Currently focusing on Advanced Automation & DevOps integration.
-* 🎓 ISTQB - CTFL, AWS & Azure Certified Cloud Practitioner.
+- 🔭 Currently: Advanced automation, test infra, and DevOps integration
+- 🎓 Certifications: ISTQB CTFL, AWS & Azure Certified Cloud Practitioner
 * ⚡ **Fun Fact:** If you find a bug in my code... no you didn't, that's a feature! (But seriously, share it with me).
 
 
 ❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
 
 
-- ## Support
+- ## Support / Sponsor
 
-- ❤️ To show more support:
+- ❤️ If my work helps you, consider supporting me:
    <img src='https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg' alt="Coder GIF" width="50" height="50"> [BUY ME A COFFEE](https://buymeacoffee.com/dandademitz)
-   👏🏿 [sponsor me]
+   👏🏿
 
 - ⭐️ Simplest way to say Thanks is just to it a Star 🤩  
 - ✨ Contributions of any kind are welcome!
