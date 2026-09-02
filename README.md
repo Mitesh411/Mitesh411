@@ -1,24 +1,44 @@
+<!-- SEO: Quality Assurance Engineer, Test Automation Architect, CI/CD, cloud testing, and quality engineering portfolio. -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mitesh411" alt="Profile views for Mitesh Dandade's GitHub profile" />
+</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated illustration of a developer coding" width="500" height="400" />
+</p>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=Mitesh411)
+<h1 align="center">Mitesh Dandade</h1>
+<p align="center"><strong>Quality Assurance Engineer &amp; Test Automation Architect</strong></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mitesh-dandade-1a62085b">Connect on LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mailme.dandademitesh@gmail.com">Email me</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Mitesh411">Explore GitHub</a>
+</p>
 
- 
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p align="center">
+  <img src="https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif" alt="Handshake animation welcoming visitors" width="100" />
+</p>
 
-### Love to See You Here 
+> **Welcome!** I’m glad you’re here. Explore my quality-engineering toolkit, connect with me, or support the work below.
 
-<img src='https://github.com/Mitesh411/Mitesh411/blob/master/handshake.gif' width="100px" />
-
-
-
-# Mitesh Dandade — Quality Assurance Engineer & Test Automation Architect
+## About me
 
 Hi — I'm Mitesh, a Quality Assurance Engineer and Test Automation Architect focused on building robust, scalable testing frameworks and integrating test automation into CI/CD pipelines.
 
-- 🔭 Currently: Advanced automation, test infra, and DevOps integration
-- 🎓 Certifications: ISTQB CTFL, AWS & Azure Certified Cloud Practitioner
-* ⚡ **Fun Fact:** If you find a bug in my code... no you didn't, that's a feature! (But seriously, share it with me).
+- 🔭 **Currently focused on:** Advanced automation, test infrastructure, and DevOps integration.
+- 🎓 **Certifications:** ISTQB CTFL, AWS Certified Cloud Practitioner, and Azure Certified Cloud Practitioner.
+- ⚡ **Fun fact:** If you find a bug in my code... no you didn't, that's a feature! (But seriously, share it with me.)
+
+<p align="center">
+  <a href="#languages--frameworks">View my toolkit</a>
+  &nbsp;|&nbsp;
+  <a href="#connect-with-me">Start a conversation</a>
+</p>
+
+---
 
 
 ❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌❌
