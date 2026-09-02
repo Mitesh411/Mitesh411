@@ -139,7 +139,7 @@ I am a passionate **Quality Assurance Engineer** and **Test Automation Architect
 
 | Jenkins | GitHub Actions | GitLab CI | Azure DevOps | CircleCI |  AWS |
 |--------|----------------|-----------|---------------|----------| ----------|
-| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" width="60"/> | <img src="https://www.azureicons.com/static/images/icons/Devops/svg/Azure-DevOps.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" width="60"/> | <img src = "https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="60"/>   |
+| <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" width="60"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="60"/> | <img src="https://about.gitlab.com/images/press/gitlab-logo-500-rgb.png" height="60"/> | <img src="https://az-icons.com/images/azure-devops/icon.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/1231870?s=200&v=4" width="60"/> | <img src = "https://camo.githubusercontent.com/7575696d9955b68522293ed8409d041e78dc26dd51add99b5a5d9aad0747e11e/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667" width="60"/>   |
 
 ---
 
