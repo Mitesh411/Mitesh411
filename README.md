@@ -17,7 +17,7 @@
 I am a passionate **Quality Assurance Engineer** and **Test Automation Architect** dedicated to building robust, scalable testing frameworks and ensuring high-quality software delivery.
 
 * 🛠️ Currently focusing on Advanced Automation & DevOps integration.
-* 🎓 AWS & Azure Certified Cloud Practitioner.
+* 🎓 ISTQB - CTFL, AWS & Azure Certified Cloud Practitioner.
 * ⚡ **Fun Fact:** If you find a bug in my code... no you didn't, that's a feature! (But seriously, share it with me).
 
 
