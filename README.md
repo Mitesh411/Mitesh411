@@ -140,7 +140,7 @@ Hi — I'm Mitesh, a Quality Assurance Engineer and Test Automation Architect fo
 
 | OWASP ZAP | Burp Suite | Dependency-Check | Snyk | Trivy |
 |-----------|------------|------------------|------|-------|
-| <img src="https://www.zaproxy.org/img/zap-by-checkmarx.svg" width="60"/> | <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60"/> | <img src="https://owasp.org/assets/images/logo.png" width="60"/> | <img src="https://avatars.githubusercontent.com/u/19733683?s=200&v=4" width="60"/> | <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="60"/> |
+| <img src="https://www.zaproxy.org/img/zap-by-checkmarx.svg" width="60"/> | <img src="https://portswigger.net/content/images/logos/burp-suite-logo.svg" width="60"/> | <img src="https://avatars.githubusercontent.com/u/50874977?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/19733683?s=200&v=4" width="60"/> | <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/imgs/logo.png" width="60"/> |
 
 ---
 
