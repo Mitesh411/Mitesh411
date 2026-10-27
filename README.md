@@ -168,14 +168,10 @@ Hi — I'm Mitesh, a Quality Assurance Engineer and Test Automation Architect fo
 
 ---
 **BackEnd Database Provider** 
- 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" width="52" alt="oracle logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" width="52" alt="microsoftsqlserver logo"  />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  /></a>
-<img height="55" src="/nginx-original.svg" alt="nginx">
+
+| PostgreSQL | Oracle | Microsoft SQL Server | MySQL | PostgreSQL Vector DB | MongoDB | Nginx |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45" alt="Oracle"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="Microsoft SQL Server"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL Vector DB"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/> |
 
 ---
 
@@ -184,7 +180,7 @@ Hi — I'm Mitesh, a Quality Assurance Engineer and Test Automation Architect fo
 
 | Allure | Extent Reports | ReportPortal | Grafana | ELK Stack |
 |--------|----------------|--------------|---------|-----------|
-| <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/41491836?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/17636279?s=200&v=4" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" width="60"/> | <img src="https://images.seeklogo.com/logo-png/33/1/elastic-stack-logo-png_seeklogo-333576.png" width="60"/> |
+| <img src="https://avatars.githubusercontent.com/u/5879127?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/41491836?s=200&v=4" width="60"/> | <img src="https://avatars.githubusercontent.com/u/17636279?s=200&v=4" width="60"/> | <img src="https://github.com/grafana/grafana/blob/main/public/img/grafana_icon.svg" width="60"/> | <img src="https://images.seeklogo.com/logo-png/33/1/elastic-stack-logo-png_seeklogo-333576.png" width="60"/> |
 
 ---
 
